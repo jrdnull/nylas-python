@@ -3,7 +3,7 @@ nylas-python Changelog
 
 Unreleased (dev)
 ----------------
-
+* Add `Event.rsvp()` method
 
 v4.8.1
 ------
